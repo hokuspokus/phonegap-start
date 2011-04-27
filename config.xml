@@ -1,18 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <widget xmlns		= "http://www.w3.org/ns/widgets"
 	xmlns:gap	= "http://phonegap.com/ns/1.0"
-	id		= "com.phonegap.getting.started"
-	version 	= "1.0.0">
+	id		= "com.hokuspokus.amazing"
+	version 	= "2.0">
 
 	<name>Pappas best app</name>
 
 	<description>
-		A template for getting started with PhoneGap development and build.phonegap.com
-	</description>
+Bara Bajare ingen protest, passion oavsett division!	</description>
 
-	<author href="http://alunny.github.com"
-		email="andrew.lunny@nitobi.com">
-		Andrew Lunny
+	<author href="http://hokuspokus.github.com"
+		email="bestroligast@gmail.comm">
+		Pierre Lundqvist
 	</author>
 
 	<gap:platforms>
